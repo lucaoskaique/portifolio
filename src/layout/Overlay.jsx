@@ -15,14 +15,6 @@ export default function Overlay() {
         <p>Exploring percussive sounds —</p>
       </TopLeft>
       <BottomLeft>
-        <span>
-          Instagram <a href="https://www.instagram.com/coic_e/">@coic_e</a>
-        </span>
-        <span>
-          Soundcloud <a href="https://soundcloud.com/coic_e">Soundcloud</a>
-        </span>
-      </BottomLeft>
-      <BottomRight>
         COICE surge em 2020 como um podcast voltado para música eletrônica.
         <br />
         Focada em sons percussivos, valorizando a sonoridade da América Latina e
@@ -34,6 +26,14 @@ export default function Overlay() {
         A festa se propõe como uma interseção entre música, programação e artes
         visuais/performance.
         <br />
+      </BottomLeft>
+      <BottomRight>
+        <span>
+          Instagram <a href="https://www.instagram.com/coic_e/">@coic_e</a>
+        </span>
+        <span>
+          Soundcloud <a href="https://soundcloud.com/coic_e">Soundcloud</a>
+        </span>
       </BottomRight>
       <Hamburger>
         <div />
