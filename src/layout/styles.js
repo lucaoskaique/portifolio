@@ -36,8 +36,6 @@ export const TopLeft = styled.div`
 `;
 
 export const BottomLeft = styled.div`
-  display: flex;
-  flex-direction: column;
   position: absolute;
   bottom: 5vw;
   left: 5vw;
@@ -46,6 +44,8 @@ export const BottomLeft = styled.div`
 `;
 
 export const BottomRight = styled.div`
+  display: flex;
+  flex-direction: column;
   position: absolute;
   bottom: 5vw;
   right: 5vw;
